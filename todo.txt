@@ -1,0 +1,4 @@
+- [] initialize nextJS project
+- [] setup SQLite connection
+- [] setup first version of database
+- [] feature: connect api & copy the datamodel
